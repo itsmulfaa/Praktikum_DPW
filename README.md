@@ -3,3 +3,4 @@
 Nama : Maria Ulfa
 Mata Kuliah : DPW
 Hobi : Membaca
+Cita-cita : Data Analys
